@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**archiee04/archiee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm archie 🫪
 
-Here are some ideas to get you started:
+### building conversational ai systems that actually do things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## about me
+
+- 🎓 AI/ML Engineering Student  
+- 🧠 Specializing in **Conversational AI + Agentic Systems**
+- ⚡ Building AI workflows, copilots, RAG systems & automation tools
+- 🚀 Interested in products that combine AI + real-world execution
+- 🛠️ Currently shipping projects around:
+  - AI automation
+  - multi-agent systems
+  - workflow orchestration
+  - conversational interfaces
+  - retrieval systems
+
+---
+
+## tech stack
+
+### languages
+`Python` `C++` `JavaScript` `SQL`
+
+### ai/ml
+`LangChain` `OpenAI APIs` `RAG` `Transformers` `Vector DBs` `Agentic AI`
+
+### backend & tools
+`FastAPI` `Flask` `Docker` `Git` `Firebase` `REST APIs`
+
+### frontend
+`React` `Next.js` `TailwindCSS`
+
+---
+
+## currently obsessed with
+
+```python
+while awake:
+    build(ai_systems)
+    automate(workflows)
+    ship(products)
