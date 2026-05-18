@@ -1,8 +1,9 @@
 <div align="center">
 
-# hey, i'm archie 🫪
+# hey, i'm archie 
 
-### building conversational ai systems that actually do things.
+### teaching machines to talk, reason, automate, and occasionally outperform humans.
+
 
 </div>
 
